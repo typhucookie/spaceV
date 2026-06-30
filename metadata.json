@@ -1,0 +1,6 @@
+{
+  "name": "Vũ Trụ Cùng Khoa",
+  "description": "Nền tảng đào tạo chuyên sâu về công nghệ hàng không vũ trụ cao cấp",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
